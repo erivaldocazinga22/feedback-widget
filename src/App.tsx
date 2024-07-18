@@ -6,9 +6,6 @@ import IconThought from "@/assets/icons/thought.svg";
 export default function App() {
     return (
         <div>
-            App
-
-
             <div className="absolute bottom-4 right-4">
                 <div className="relative">
                     <div className="group">
