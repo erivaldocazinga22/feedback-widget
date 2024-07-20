@@ -1,0 +1,28 @@
+{
+  "feedbacks": [
+    {
+      "id": "d58a",
+      "message": "dsdsd",
+      "print": null,
+      "type": "idea"
+    },
+    {
+      "id": "7b50",
+      "message": "test",
+      "print": null,
+      "type": "idea"
+    },
+    {
+      "id": "7959",
+      "message": "dd",
+      "print": null,
+      "type": "idea"
+    },
+    {
+      "id": "2d59",
+      "message": "test 1",
+      "print": null,
+      "type": "bug"
+    }
+  ]
+}
